@@ -1,9 +1,9 @@
 {
-'FictionalBank_URL'='https://openapiuat.FictionalBank.com:9443',
-'FictionalBank_API_KEY'='l7ba164d15f9de442687e69c89d3835a',
-'FictionalBank_HEADER'='Basic bDdiYTE2NGQxNWY5ZGU0NDI2ODdjljODlkMzgwYjM1YTo4OTA4NmI4ZjRlOTg0YTBkYTg5OTZhMzk0YTEzNDI5Ng==',
-'FictionalBank_PUBLIC_CERTIFICATE'='/Users/jarvis/Downloads/openapiuat.FictionalBank.com/openapiuat_FictionalBank_com.cer',
-'FictionalBank_HASH_KEY'='N9A8R0L6H8',
+"FictionalBank_URL"="https://openapiuat.FictionalBank.com:9443",
+"FictionalBank_API_KEY"="l7ba164d15f9de442687e69c89d3835a",
+"FictionalBank_HEADER"="Basic bDdiYTE2NGQxNWY5ZGU0NDI2ODdjljODlkMzgwYjM1YTo4OTA4NmI4ZjRlOTg0YTBkYTg5OTZhMzk0YTEzNDI5Ng==",
+"FictionalBank_PUBLIC_CERTIFICATE"="/Users/jarvis/Downloads/openapiuat.FictionalBank.com/openapiuat_FictionalBank_com.cer",
+"FictionalBank_HASH_KEY"="N9A8R0L6H8",
 "PLATINUM_PLAN": "PLATINUM+ PLAN",
 "PM_Collection_ID": "27825256-2fe93639-436a-4544-8710-20f9855e48eb",
 "PM_Request_ID": "27825256-80654ba5-1e5f-425a-aba8-9cd267fec849"
